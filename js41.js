@@ -1,0 +1,1 @@
+alert("Halo, ini pesan dari JavaScript!");
